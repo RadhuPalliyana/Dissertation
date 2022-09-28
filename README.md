@@ -21,6 +21,6 @@ Code on spell suggestion is placed under folder "Dissertation code"
 
 The folder "Statistical analysis code" under "Dissertation code" contain the code for statical anlysis done over relevant article extraction for different pharmaceutical name, common name and synonyms
 
-The folder "Dissertation execution report" has the Report on pharmaceutical name, common name and synonym execution (File name : Report on Common ,pharmaceutical and synonyms and NLP output.xlsx ). It also includes the output for the NLP task performed on each individual articles (File name : Statistical Analysis for article retrieval.docx).
+The folder "Dissertation execution report" has the Report on pharmaceutical name, common name and synonym execution .It also includes the output for the NLP task performed on each individual articles(File name : Report on Common ,pharmaceutical and synonyms and NLP output.xlsx ).Another report on statistical analysis of relevant articles is also added in this folder (File name : Statistical Analysis for article retrieval.docx).
 
-The folder "Data" contains both processed and raw data. The folder "Processed data" contains the data used for execution. The folder "Raw data" contains the MPNS V11 dataset provided by Kew Garden along with the data dictionary
+The folder "Data" contains both processed and raw data. The folder "Processed data" contains the data used for project execution. The folder "Raw data" contains the MPNS V11 dataset provided by Kew Garden along with the data dictionary
