@@ -23,4 +23,4 @@ The folder "Statistical analysis code" under "Dissertation code" contain the cod
 
 The folder "Dissertation execution report" has the Report on pharmaceutical name, common name and synonym execution .It also includes the output for the NLP task performed on each individual articles(File name : Report on Common ,pharmaceutical and synonyms and NLP output.xlsx ).Another report on statistical analysis of relevant articles is also added in this folder (File name : Statistical Analysis for article retrieval.docx).
 
-The folder "Data" contains both processed and raw data. The folder "Processed data" contains the data used for project execution. The folder "Raw data" contains the MPNS V11 dataset provided by Kew Garden along with the data dictionary
+The folder "Data" contains both processed and raw data. The folder "Processed data" contains the data used for project execution. The compressed folder "Raw data" contains the MPNS V11 dataset provided by Kew Garden along with the data dictionary .
